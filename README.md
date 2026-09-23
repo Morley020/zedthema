@@ -2,7 +2,7 @@
 
 **Open-source, local-first, researcher-controlled qualitative research platform.**
 
-ZedThema is a general-purpose framework for qualitative and mixed-methods research. This tool was developed by Morley Mujansi. If you are going to copy or use this code, please acknowledge the owner (Morley). It is not tied to particular topic, construct, one discipline, or one coding method.
+ZedThema is a general-purpose framework for qualitative and mixed-methods research. It is not tied to particular topic, construct, one discipline, or one coding method.
 
 The design goal is simple:
 
