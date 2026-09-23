@@ -1,17 +1,16 @@
-# ZedThema 2.0
+# ZedThema 1.0
 
 **Open-source, local-first, researcher-controlled qualitative research platform.**
 
-ZedThema is a general-purpose framework for qualitative and mixed-methods research. It is not tied to Yango, UTAUT2, one discipline, or one coding method.
+ZedThema is a general-purpose framework for qualitative and mixed-methods research. It is not tied to particular topic, construct, one discipline, or one coding method.
 
 The design goal is simple:
 
 > Keep the researcher's evidence, codebook, AI suggestions, validation decisions, and audit trail together in a reproducible local workflow.
 
-## What changed in 2.0
+## What changed in this version
 
-The original starter was a useful proof of concept, but it had several issues that would appear as soon as the application was used beyond a small demo. Version 2 fixes those issues and adds the research-grade architecture discussed for the project.
-
+The original starter was a useful proof of concept, but it had several issues that would appear as soon as the application was used beyond a small demo. 
 ### Research workflow
 
 - Project-based study management.
