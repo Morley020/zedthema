@@ -1,0 +1,6 @@
+# Speaker diarization. Large dependency; install only if you need it.
+pyannote.audio>=3.3
+# Semantic embeddings. The first use downloads the selected model unless it is already cached.
+sentence-transformers>=3.0
+# Optional REFI-QDA validation/import tooling.
+refio>=0.1
